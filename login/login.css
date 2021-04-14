@@ -1,0 +1,35 @@
+.label {
+    color: #000;
+}
+
+
+.bg {
+    height: 100%;
+    width: 100%;
+}
+.form-container {
+  height: 30vh;
+  width: 100%;
+  border-style: solid;
+}
+
+.form-group {
+  color: #fff;
+}
+
+.lanken {
+    border-style: solid;
+    border-color: #000;
+    border-radius: 25%;
+    position: absolute;
+    left: 190px;
+    top: 200px;
+}
+
+.btn {
+  color: #000;
+  border: 1.5px solid #000;
+  position: absolute;
+  top: 195px;
+  left: 30px;
+}
